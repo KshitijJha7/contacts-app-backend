@@ -7,3 +7,5 @@ It uses :
 1. Node JS
 2. Express JS
 3. Mongo DB
+
+Gonna upload the React JS frontend once completed.
